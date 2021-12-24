@@ -6,3 +6,5 @@ Kaggle - House Prices - Advanced Regression Techniques
 - Xiufeng Xu, Ph.D. in Statistics, University of Texas at Dallas.
 - Qing Yan, Ph.D. in Chemistry, University of Texas at Dallas.
 - Senliang Zhu, M.S. in Statistics, Florida State University.
+
+Please see link: https://github.com/Dunfu1993/House_Prices to get more information.
